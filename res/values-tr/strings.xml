@@ -199,6 +199,7 @@
     <string name="dialer_returnToInCallScreen" msgid="3719386377550913067">"Çağrıya dön"</string>
     <string name="dialer_addAnotherCall" msgid="4205688819890074468">"Çağrı ekle"</string>
     <string name="callDetailTitle" msgid="5340227785196217938">"Çağrı ayrıntıları"</string>
+    <string name="callStatsDetailTitle">Arama istatistikleri</string>
     <string name="toast_call_detail_error" msgid="7200975244804730096">"İstenen çağrı için ayrıntılar okunamadı."</string>
     <string name="type_incoming" msgid="6502076603836088532">"Gelen çağrı"</string>
     <string name="type_outgoing" msgid="343108709599392641">"Giden çağrı"</string>
